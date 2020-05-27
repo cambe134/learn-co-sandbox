@@ -1,4 +1,4 @@
-HELLO WORLD!
+Hello world!
 
 # CliProject
 
